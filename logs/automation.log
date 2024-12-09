@@ -1,0 +1,69 @@
+17:49:36.946 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Intellij Programs\UI Testing\OpenCart\master.xml
+
+17:49:40.743 [main] INFO  testCases.TC_001_AccRegistrationTest - Starting TC_001_AccountRegistrationtTest
+17:49:40.976 [main] INFO  testCases.TC_001_AccRegistrationTest - Clicked on My Account 
+17:49:41.347 [main] INFO  testCases.TC_001_AccRegistrationTest - Clicked on Register 
+17:49:41.653 [main] INFO  testCases.TC_001_AccRegistrationTest - Provided First Name 
+17:49:41.784 [main] INFO  testCases.TC_001_AccRegistrationTest - Provided Last Name 
+17:49:41.907 [main] INFO  testCases.TC_001_AccRegistrationTest - Provided Email 
+17:49:42.029 [main] INFO  testCases.TC_001_AccRegistrationTest - Provided Telephone 
+17:49:42.150 [main] INFO  testCases.TC_001_AccRegistrationTest - Provided Password 
+17:49:42.274 [main] INFO  testCases.TC_001_AccRegistrationTest - Provided Confirmed Password 
+17:49:42.419 [main] INFO  testCases.TC_001_AccRegistrationTest - Set Privacy Policy 
+17:49:43.131 [main] INFO  testCases.TC_001_AccRegistrationTest - Clicked on Continue 
+17:49:45.200 [main] INFO  testCases.TC_001_AccRegistrationTest - Finished TC_001_AccRegistrationtTest
+17:49:50.295 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+17:49:50.811 [main] INFO  testCases.TC_002_LoginTest - info
+17:49:52.089 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+[TestNG] Running:
+  D:\Intellij Programs\UI Testing\OpenCart\master.xml
+
+Starting TC_001_AccountRegistrationtTest
+Clicked on My Account 
+Clicked on Register 
+Provided First Name 
+Provided Last Name 
+Provided Email 
+Provided Telephone 
+Provided Password 
+Provided Confirmed Password 
+Set Privacy Policy 
+Clicked on Continue 
+Finished TC_001_AccRegistrationtTest
+Starting TC_002_LoginTest
+info
+ Finished TC_002_LoginTest
+[TestNG] Running:
+  D:\Intellij Programs\UI Testing\OpenCart\master.xml
+
+Starting TC_001_AccountRegistrationtTest
+Clicked on My Account 
+Clicked on Register 
+Provided First Name 
+Provided Last Name 
+Provided Email 
+Provided Telephone 
+Provided Password 
+Provided Confirmed Password 
+Set Privacy Policy 
+Clicked on Continue 
+Finished TC_001_AccRegistrationtTest
+Starting TC_002_LoginTest
+info
+ Finished TC_002_LoginTest
+Starting TC_001_AccountRegistrationtTest
+Clicked on My Account 
+Clicked on Register 
+Provided First Name 
+Provided Last Name 
+Provided Email 
+Provided Telephone 
+Provided Password 
+Provided Confirmed Password 
+Set Privacy Policy 
+Clicked on Continue 
+Finished TC_001_AccRegistrationtTest
+Starting TC_002_LoginTest
+info
+ Finished TC_002_LoginTest
